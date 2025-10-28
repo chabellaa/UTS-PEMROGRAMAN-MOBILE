@@ -5,7 +5,7 @@
 - **NPM:** 07352311170  
 - **Kelas:** 5IF1
 - **Mata Kuliah:** Pemrograman Berorientasi Objek (PBO)  
-- **Dosen Pengampu:** [Opsional, isi jika diminta]
+- **Dosen Pengampu:** YASIR MUIN S.T., M.Kom.
 
 ---
 
@@ -51,3 +51,6 @@ dart run main.dart
 - Informasi detail setiap transportasi.
 - Struk pemesanan pelanggan.
 - Daftar semua pemesanan.
+
+**Berikut adalah link Live Coding di Youtube** :
+https://www.youtube.com/live/CcFDqUxL5wE?si=8Ogf7I-AOL6hZ2mv
